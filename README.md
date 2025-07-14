@@ -1,6 +1,6 @@
 ## Overview
 
-This is a build tool CLI for simplifying and streamlining the build process for internal frontend projects in the Grab Taxi company, speed up build time and optimize performance. Support the Micro Frontend and make the dev experience smoother.
+A build tool CLI for simplifying and streamlining the build process for internal frontend projects in the Grab Taxi company, speed up build time and optimize performance. Support the Micro Frontend and make the dev experience smoother.
 
 ## Table of Contents
 
@@ -10,7 +10,7 @@ This is a build tool CLI for simplifying and streamlining the build process for 
 
 ## Install
 
-- Setup @web-platform component registry using a `.npmrc` file following [this instruction](https://gitlab.myteksi.net/chroma/web-platform#to-install-published-packages).
+- Setup @web-platform component registry using a `.npmrc` file.
 
 - Install the package:
 
