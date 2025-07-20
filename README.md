@@ -2,6 +2,10 @@
 
 A build tool CLI for simplifying and streamlining the build process for internal frontend projects in the Grab Taxi company, speed up build time and optimize performance. Support the Micro Frontend and make the dev experience smoother.
 
+## RFC
+
+[https://docs.google.com/document/d/1vrBsNyWoT91lkBWPt5pkej3dd15VhO8lCYshSjnuIbU](https://docs.google.com/document/d/1vrBsNyWoT91lkBWPt5pkej3dd15VhO8lCYshSjnuIbU)
+
 ## Table of Contents
 
 - [Install](#install)
